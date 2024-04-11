@@ -1,3 +1,5 @@
+# Link: https://codeforces.com/contest/677/problem/A
+
 n, h = map(int, input().split())
 
 numbers = list(map(int, input().split()))
