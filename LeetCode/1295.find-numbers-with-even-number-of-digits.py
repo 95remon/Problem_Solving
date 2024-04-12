@@ -3,8 +3,6 @@
 #
 # [1295] Find Numbers with Even Number of Digits
 #
-
-
 # @lc code=start
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
